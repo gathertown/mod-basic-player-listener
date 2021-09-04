@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/gathertown/mod-basic-player-listener/issues"
   },
-  "homepage": "https://github.com/gathertown/mod-basic-player-listener#readme"
+  "homepage": "https://github.com/gathertown/mod-basic-player-listener#readme",
+  "dependencies": {
+    "@gathertown/gather-game-client": "^31.1.4",
+    "isomorphic-ws": "^4.0.1",
+    "ws": "^8.2.1"
+  }
 }
