@@ -1,4 +1,4 @@
-# mod-basic-player-listener
+# Gather mod example: basic player listener
 
 basic example of subscribing to player movement in a space
 
