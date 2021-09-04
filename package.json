@@ -1,0 +1,19 @@
+{
+  "name": "mod-basic-player-listener",
+  "version": "1.0.0",
+  "description": "bare-bones basic example of subscribing to Gather game events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gathertown/mod-basic-player-listener.git"
+  },
+  "author": "Gather Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gathertown/mod-basic-player-listener/issues"
+  },
+  "homepage": "https://github.com/gathertown/mod-basic-player-listener#readme"
+}
