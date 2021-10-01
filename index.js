@@ -1,6 +1,6 @@
 const { API_KEY } = require("./api-key");
 const { Game } = require("@gathertown/gather-game-client");
-global.WebSocket = require("isomorphic-ws");
+// global.WebSocket = require("isomorphic-ws");
 
 /**** setup ****/
 
