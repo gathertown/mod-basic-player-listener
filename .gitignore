@@ -1,5 +1,7 @@
 api-key.js
 
+.idea/
+
 # Logs
 logs
 *.log
