@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/gathertown/mod-basic-player-listener#readme",
   "dependencies": {
-    "@gathertown/gather-game-client": "~38.0.1",
+    "@gathertown/gather-game-client": "~39.0.0",
     "isomorphic-ws": "^4.0.1",
     "ws": "^8.2.1"
   }
